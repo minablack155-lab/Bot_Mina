@@ -3,8 +3,8 @@ from telebot import types
 import time
 import re
 
-API_TOKEN = '8262232097:AAGLf8XiplqT5_ulisxD1dzXNU81QesXfew'
-DEV_ID = 8277286515
+API_TOKEN = '
+DEV_ID = 
 
 bot = telebot.TeleBot(API_TOKEN)
 
