@@ -4,7 +4,7 @@ import time
 import re
 
 API_TOKEN = '8262232097:AAGLf8XiplqT5_ulisxD1dzXNU81QesXfew'
-DEV_ID = 8277286515
+DEV_ID = 8714131402
 
 bot = telebot.TeleBot(API_TOKEN)
 
